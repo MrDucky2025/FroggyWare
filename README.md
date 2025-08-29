@@ -9,6 +9,6 @@ Hey there! I'm **Ente** (ente0216 on Discord)
 This build is updated for **version 89b6c70d8f7f42ac**.  
 
 > ⚠️ If you use this source, please **give credit** to the original author.  
-> ⚠️ Special thanks to **Proohio** for helping with the TP Handler.  
+> ⚠️ Special thanks to **Proohio** for helping with the Module.  
 
 Happy Skidding! 😉
