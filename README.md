@@ -1,14 +1,12 @@
-# FroggyWare (ente0216)
+# Personal Statement
 
-Hey there! I'm **Ente** (ente0216 on Discord) 
+Mr.Ducky (also known as Ente)  
+30/08/2025  
 
-**FroggyWare** is an **internal Roblox module** that includes:  
-- A **working Swhx injector**  
-- A **testing UI** for experimentation  
+Since 27/08/2025, I’ve experienced the most betrayal and hate I’ve ever felt on Discord, all over **one picture** I sent to 2Hell. From our very first conversation, 2Hell and I agreed not to share anything I sent. I never sent him any sources or sensitive material, just **one picture**, and he shared it anyway.  
 
-This build is updated for **version 89b6c70d8f7f42ac**.  
+He tried to make me betray friends I consider brothers, but I **did not betray them**. I chose to stay loyal to my friends, because I’m not betraying them for some random person I met only a month ago on Discord. Despite this, my friendship with some has still been affected. The image contained private information, yet he still made fun of it. **Don’t forget that part.**  
 
-> ⚠️ If you use this source, please **give credit** to the original author.  
-> ⚠️ Special thanks to **Proohio** for helping with the Module.  
+Without those friends, the people I truly consider brothers, I **cannot continue** anything. I quit. I quit. I quit. I don’t want to have anything to do with Roblox content or Discord anymore.  
 
-Happy Skidding! 😉
+**I’m gone. I’m gone. I’m gone.**
